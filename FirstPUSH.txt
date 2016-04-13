@@ -3,3 +3,5 @@ Hello World
 First Pull: Done
 
 First Push: Done
+
+Julian has to do Pull/Push!
